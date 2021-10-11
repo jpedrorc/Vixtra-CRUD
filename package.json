@@ -1,0 +1,20 @@
+{
+  "name": "vixtra-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpedrorc/Vixtra-CRUD.git"
+  },
+  "author": "João Pedro da Rocha Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpedrorc/Vixtra-CRUD/issues"
+  },
+  "homepage": "https://github.com/jpedrorc/Vixtra-CRUD#readme",
+  "type":"module"
+}
